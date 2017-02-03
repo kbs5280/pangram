@@ -1,4 +1,4 @@
-NOTE: _This is a simple Ruby exercise._
+NOTE: _This is a simple exercise I used to practice Ruby fundamentals._
 
 # Pangram
 
