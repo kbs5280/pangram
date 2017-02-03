@@ -1,3 +1,5 @@
+NOTE: _This is a simple Ruby exercise._
+
 # Pangram
 
 Determine if a sentence is a pangram.
